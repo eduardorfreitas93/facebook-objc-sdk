@@ -798,7 +798,7 @@ FOUNDATION_EXPORT NSString *const FBSDKAppEventParameterNameOrderID;
 
  @param webView The webview to augment with the additional JavaScript behaviour
  */
-+ (void)augmentHybridWKWebView:(WKWebView *)webView;
+// + (void)augmentHybridWKWebView:(WKWebView *)webView;
 #endif
 
 /*
